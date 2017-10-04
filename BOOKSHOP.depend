@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1492269300 source:c:\summation\bookshop\main.cpp
+	<iostream>
+	"implementation.cpp"
+	<string.h>
+	<stdlib.h>
+
+1492202901 c:\summation\bookshop\implementation.cpp
+	"classheader.h"
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
+1492187226 c:\summation\bookshop\classheader.h
+	<string.h>
+	<stdlib.h>
+
